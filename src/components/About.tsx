@@ -24,7 +24,7 @@ const About = () => {
             <h3 className="text-2xl font-semibold text-gray-900">My Journey</h3>
             <div className="space-y-4 text-gray-600">
               <p>
-                I’m Kartik Kahar, a Computer Engineering student specializing in AI and Machine Learning. My journey began with curiosity and a drive to build real-world solutions using intelligent systems and clean code.
+                I’m Kahar Kartik, a Computer Engineering student specializing in AI and Machine Learning. My journey began with curiosity and a drive to build real-world solutions using intelligent systems and clean code.
               </p>
               <p>
                 I’ve interned at Sahana System Ltd and Edunet Foundation, where I worked on cloud deployment with AWS, object detection using transfer learning, and credit card fraud prediction with ML models. These roles sharpened my skills in Python, Java, React, and scalable architecture.
